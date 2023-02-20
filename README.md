@@ -7,7 +7,7 @@ This simple calculator was created as a school project in Qt Creator.
 * All actions are done by clicking on buttons. 
 * Allows these mathematical operations: addition, subtraction, multiplication and division. 
 * Allows correction of entered number (BACK/CLEAR) and change sign of entered number (+/-).
-* Supports calculations of mathematical expression with parantheses.
+* Supports calculations of mathematical expression with brackets.
 
 ## Calculation
 
